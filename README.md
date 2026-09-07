@@ -10,3 +10,4 @@ lecture1:
 Knowledge Representation and Logical Reasoning
 projects: 1.Mastermind:A logic-based problem involving constraints and possible solutions.
 2.Minesweeper:An AI that uses logical inference to identify safe cells and mines.
+![Minesweeper](minesweeper/screenshot.png)
