@@ -19,3 +19,11 @@ Projects:
 Project:
 
 1. **Heredity:** A probabilistic model that calculates the likelihood of individuals having different numbers of copies of a gene and having a particular trait based on family relationships.
+
+**lecture3: Optimization and Constraint Satisfaction**
+
+Projects:
+
+1. **Hospitals:** Used local search and optimization techniques, including Hill Climbing and Random Restart, to find improved hospital assignments based on a cost function.
+2. **Scheduling:** Implemented a CSP-based scheduling system using constraints and backtracking to assign people to available times and rooms while satisfying scheduling requirements.
+3. **Crossword:** Implemented a Constraint Satisfaction Problem (CSP) solver using node consistency, arc consistency (AC-3), backtracking search, and variable/value ordering heuristics including Minimum Remaining Values (MRV), Degree, and Least Constraining Value (LCV).
